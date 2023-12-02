@@ -3,5 +3,5 @@ Repositorio de laboratorios y proyecto final de la asignatura Electricidad y Ele
 
 Realizados por:
 - Andrea Juliana Portilla Barrera
-- Daniel Yaruro
+- Daniel Esteban Yaruro Contreras
 - Luis Esneidher Chaparro Castaño
